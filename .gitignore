@@ -1,0 +1,11 @@
+.DS_Store
+*.bak
+*.swp
+*.tmp
+*~
+desktop.ini
+thumbs.db
+
+.terraform.lock.hcl
+.terraform/
+*tfstate*
